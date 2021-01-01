@@ -68,7 +68,6 @@ set MayaPluginLinkerFlags=^
     %CommonLinkerFlags% ^
     "%MayaLibraryDir%\OpenMaya.lib" ^
     "%MayaLibraryDir%\Foundation.lib" ^
-    "%MayaLibraryDir%\adskIMF.lib" ^
     "%MayaLibraryDir%\clew.lib" ^
     "%MayaLibraryDir%\Image.lib" ^
     /pdb:"%BuildDir%\%ProjectName%_mll.pdb" ^

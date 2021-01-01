@@ -130,10 +130,10 @@ Pretty much what you would expect.
 
 ##### Maya 2020
 
-Two changes were made for the project to build on 2020 instead of Maya 2016-2019.
+Changes made for the project to build on 2020 instead of Maya 2016-2019.
 
-- `IMFbase.lib` was [renamed to `adskIMF.lib` in Maya 2020](https://around-the-corner.typepad.com/adn/2020/02/devkit-hotfix-for-maya-2020.html)
 - The `/python2.7` directory was renamed `/Python` in Maya 2020
+- That's it
 
 ##### Key Takeaways
 
