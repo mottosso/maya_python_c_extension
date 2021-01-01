@@ -1,8 +1,0 @@
-#ifndef MAYA_PYTHON_C_EXT_HELLO_WORLD_H
-#define MAYA_PYTHON_C_EXT_HELLO_WORLD_H
-
-
-void helloWorldMaya();
-
-
-#endif /* MAYA_PYTHON_C_EXT_HELLO_WORLD_H */
